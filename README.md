@@ -72,3 +72,7 @@ A collection of awesome things for the [Twitch](https://twitch.tv) streaming ser
 ### Bots - Source Code
 
 * [MixItUp](https://github.com/SaviorXTanren/mixer-mixitup) - (License: MIT)
+
+### Tools
+
+* [fdgt.dev](https://fdgt.dev/) - Simulate Twitch
