@@ -5,8 +5,9 @@ A list of common bots that appear in your Twitch chat. If you don't want gifted 
 * A1bear
 * AnotherTTVViewer
 * Commanderroot
+* Electricallongboard
 * Hotlocalmom
 * Lurxx
-* Sweethali
+* SweetHali
 * Thiccur
 * Universe
